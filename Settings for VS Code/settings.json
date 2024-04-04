@@ -14,7 +14,7 @@
     "code-runner.saveFileBeforeRun": true,
     "editor.hover.delay": 1500,
     "[sql]": {
-        "editor.defaultFormatter": "bradymholt.pgformatter"
+        "editor.defaultFormatter": "inferrinizzard.prettier-sql-vscode"
     },
     "editor.stickyScroll.enabled": false,
     "[html]": {
@@ -36,7 +36,6 @@
     "window.commandCenter": false,
     "editor.minimap.enabled": false,
     "terminal.integrated.cursorStyle": "line",
-    "explorer.compactFolders": false,
     "python.analysis.packageIndexDepths": [
         {
             "name": "sklearn",
@@ -71,5 +70,7 @@
         "editorError.foreground": "#00000000",
         "editorWarning.foreground": "#00000000",
         "editorInfo.foreground": "#00000000"
-    }
+    },
+    "explorer.compactFolders": false,
+    "explorer.autoReveal": false
 }
