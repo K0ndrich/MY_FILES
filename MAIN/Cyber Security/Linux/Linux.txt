@@ -1,0 +1,3 @@
+
+Установка Kali Linux на Virtual Box                              - https://hackyourmom.com/pryvatnist/vstanovlennya-virtualbox-na-kali-linux/
+Первоначальная настройка Kali Linux                              - https://losst.pro/nastrojka-kali-linux-posle-ustanovki
